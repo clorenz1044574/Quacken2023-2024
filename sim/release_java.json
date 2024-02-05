@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project Quacken-2024)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "C:\\Users\\bryan\\Documents\\GitHub\\Quacken-2024\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "C:\\Users\\bryan\\Documents\\GitHub\\Quacken-2024\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "C:\\Users\\bryan\\Documents\\GitHub\\Quacken-2024\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
